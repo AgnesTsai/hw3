@@ -1,0 +1,14 @@
+body{background-color: #fff4c2;}
+em { font-weight: bold; 
+	color : black;}
+a {font-size: 18pt; font-family:tahoma, helvetica, sans-serif;
+	color: #ffa866; margin-top: 10px; margin-bottom: 10px;}
+label  {font-size: 12pt;
+	font-family:arial, sans-serif; }
+em {color: #ff7566;}
+.extra em {color:inherit;}
+.submit, .reset {width:150px;height:30px;
+	border:3px outset #ff6b66;
+	background-color: #ff7566;
+	color: #fff4c2;margin-top: 10px; margin-bottom: 10px;}
+thead {margin-left: 10px;}
